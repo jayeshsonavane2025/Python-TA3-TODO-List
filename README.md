@@ -2,7 +2,7 @@
 # ToDo List Application - Python GUI ✅📝
 
 📝 This is a simple ToDo List application built using Python's GUI library.
-
+![GIF](images/demo.gif)
 ## Index 📚
 
 - [Overview](#overview)
