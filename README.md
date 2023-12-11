@@ -3,6 +3,14 @@
 
 📝 This is a simple ToDo List application built using Python's GUI library.
 ![GIF](images/demo.gif)
+ 
+<div align="center">
+  <img src="https://imageio.forbes.com/specials-images/dam/imageserve/1092571024/960x0.jpg?height=474&width=711&fit=bounds" width="500px" alt=" a">
+  <br><br>
+</div>
+ 
+
+
 ## Index 📚
 
 - [Overview](#overview)
